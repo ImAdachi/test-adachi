@@ -1,5 +1,9 @@
 //adachi
+<<<<<<< HEAD
 //new
+=======
+//differ
+>>>>>>> 287fe464df9ae67351fa06a18e08c46bccfda71b
 void main(){
     print()
 
